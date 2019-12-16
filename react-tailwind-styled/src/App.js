@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import tw from 'tailwind.macro';
+
 // Style 1: Only requires the tw import.
 const Spacer = tw.div`py-4`;
 const Paragraph = tw.p`flex items-center py-8 justify-center text-xl text-white bg-blue-500`;
